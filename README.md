@@ -1,1 +1,1 @@
-# Ore Resources
+# Ore Resources - by Novaji
