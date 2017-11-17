@@ -1,1 +1,1 @@
-# ore
+# Ore Resources
